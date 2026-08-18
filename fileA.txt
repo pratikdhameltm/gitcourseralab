@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 feature 1 with 1 bug
+=======
+feature 1 with 1 bug
+feature 2 wip
+>>>>>>> 0328b51 (feature 2 wip)
